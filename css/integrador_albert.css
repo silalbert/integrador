@@ -33,14 +33,24 @@ div.jumbotron {
     border-radius: 5px;
 }
 
-/*.bverde{
-    color: rgb(150,201,62);
-}
-*/
+
 .pie{
     background-image: linear-gradient(135deg, rgb(29, 55, 68),rgb(30, 83, 114));
 }
 
 .nav-link {
     color:white;
+}
+
+.botonForm {
+    width: 100%;
+}
+
+.divTotal{
+    background-color: rgb(168, 225, 250);
+    border-color: rgb(168, 225, 250);
+    border-radius: 3px;
+    height: 50px;
+    line-height: 50px;
+    
 }
